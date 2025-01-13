@@ -1,0 +1,5 @@
+.DS_Store
+
+node_modules
+server/hi_log.txt
+package-lock.json
