@@ -1,2 +1,3 @@
-# frontend-masters-hard-parts-of-servers-and-nodejs
-Code for the Frontend Masters "Hard Parts of Servers &amp; Node.js" course
+# Hard Parts of Servers & Node.js
+
+Code for the Frontend Masters [Hard Parts of Servers & Node.js](https://frontendmasters.com/courses/servers-node-js/) course.
